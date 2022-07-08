@@ -1,0 +1,13 @@
+Team*.zip
+*.pem
+*.ppk
+*.crt
+*.key
+*.ovpn
+node_modules/
+__pycache__/
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+migrations/
